@@ -181,6 +181,7 @@ main {
 }
 
 .heading > span:first-child {
+	position: relative;
 	font-size: 14vw;
 	font-size: clamp(2rem, 14vw, 9rem);
 }
